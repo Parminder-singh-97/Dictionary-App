@@ -23,4 +23,6 @@ Welcome to the Dictionary App! This application allows you to search for the def
 
 ## 📸 Screenshots
 
+![project8](https://github.com/user-attachments/assets/9e36a145-2b0c-4117-a29e-e43a612b745c)
+
 
