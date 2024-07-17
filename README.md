@@ -12,7 +12,7 @@ Welcome to the Dictionary App! This application allows you to search for the def
 
 ## 🚀 Live Demo
 
-
+https://parminder-singh-97.github.io/Dictionary-App/
 
 ## 🛠️ Technologies Used
 
